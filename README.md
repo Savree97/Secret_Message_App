@@ -24,14 +24,9 @@
 
 ## 📸 Screenshots
 
-### 🏠 Home Screen  
-![Home](Screenshots/home.png)
-
-### 🔐 Encoding Example  
-![Encode](Screenshots/encode.png)
-
-### 🔓 Decoding Example  
-![Decode](Screenshots/decode.png)
+| 🔐 Encoding a Message             | 🔓 Decoding a Message             |
+| --------------------------------- | --------------------------------- |
+| ![Encode](Screenshots/encode.png) | ![Decode](Screenshots/decode.png) |
 
 ---
 
@@ -51,25 +46,49 @@ jgnnq → hello
 
 ---
 
-## 🚀 Getting Started
+## ▶️ How to Run the App
 
-1. Clone the repository:
+1. **Clone the repository**
 
 ```
 git clone https://github.com/Savree97/Secret_Message_App.git
 ```
 
-2. Open in **Android Studio**
+2. **Open in Android Studio**
 
-3. Run on emulator or physical device 📱
+* Launch Android Studio
+* Click *Open*
+* Select the project folder
+
+3. **Sync the project**
+
+* Let Gradle sync automatically
+* Install required SDK components if prompted
+
+4. **Run the app**
+
+* Select an emulator or connect a physical device
+* Click ▶️ Run
+
+5. **Done! 🎉**
+
+* The app will launch on your device/emulator
+
+---
+
+## 📌 Requirements
+
+* Android Studio (latest version recommended)
+* Android SDK installed
+* Emulator or physical Android device
 
 ---
 
 ## 📂 Project Structure
 
-* `MainActivity.kt` → Entry point of the app
+* `MainActivity.kt` → Entry point
 * `screen.kt` → UI + encode/decode logic
-* `res/drawable` → Background image and assets
+* `res/` → UI resources and assets
 
 ---
 
@@ -84,7 +103,7 @@ git clone https://github.com/Savree97/Secret_Message_App.git
 
 ## 👩‍💻 Author
 
-**Savree Dohar**  
+**Savree Dohar**
 Passionate about building intuitive and impactful applications 🚀
 
 ---
