@@ -103,7 +103,7 @@ git clone https://github.com/Savree97/Secret_Message_App.git
 
 ## 👩‍💻 Author
 
-**Savree Dohar**
+**Savree Dohar**  
 Passionate about building intuitive and impactful applications 🚀
 
 ---
