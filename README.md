@@ -24,17 +24,14 @@
 
 ## 📸 Screenshots
 
-### 🏠 Home Screen
+### 🏠 Home Screen  
+![Home](Screenshots/home.png)
 
-![Home](screenshots/home.png)
+### 🔐 Encoding Example  
+![Encode](Screenshots/encode.png)
 
-### 🔐 Encoding Example
-
-![Encode](screenshots/encode.png)
-
-### 🔓 Decoding Example
-
-![Decode](screenshots/decode.png)
+### 🔓 Decoding Example  
+![Decode](Screenshots/decode.png)
 
 ---
 
@@ -87,7 +84,7 @@ git clone https://github.com/Savree97/Secret_Message_App.git
 
 ## 👩‍💻 Author
 
-**Savree Dohar**
+**Savree Dohar**  
 Passionate about building intuitive and impactful applications 🚀
 
 ---
